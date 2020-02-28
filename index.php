@@ -10,7 +10,7 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
 		<link rel="stylesheet" href="dist/milligram.min.css">
-		<link rel="stylesheet" href="https://milligram.github.io/styles/main.css">
+		<link rel="stylesheet" href="dist/main.css">
 	</head>
 	<body>
 
@@ -104,7 +104,7 @@
 
 		</main>
 
-		<script src="https://milligram.github.io/scripts/main.js"></script>
+		<script src="dist/main.js"></script>
 
 	</body>
 </html>
